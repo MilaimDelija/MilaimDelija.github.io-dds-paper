@@ -242,9 +242,9 @@ We welcome contributions to the DDS Framework:
 - Contribute to documentation and examples
 
 ### **Support**
-- 📧 Email: [milaim.delija@example.com](mailto:milaim.delija@example.com)
-- 💼 LinkedIn: [linkedin.com/in/milaimdelija](https://linkedin.com/in/milaimdelija)
-- 🐦 Twitter: [@milaimdelija](https://twitter.com/milaimdelija)
+- 📧 Email: delija.milaim@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/milaim-delija-b26721133
+- 🐦 Medium:(https://medium.com/@delija.milaim)
 
 ## 📜 **License**
 
@@ -253,7 +253,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ```
 MIT License
 
-Copyright (c) 2024 Milaim Delija
+Copyright (c) 2025 Milaim Delija
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
