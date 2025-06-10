@@ -5,7 +5,7 @@
 [![Research Paper](https://img.shields.io/badge/Paper-Academic-red)](https://milaimdelija.github.io/MilaimDelija.github.io-dds-paper/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-> A revolutionary approach to adaptive data processing and machine learning optimization with real-time performance monitoring and interactive visualizations.
+> A approach to adaptive data processing and machine learning optimization with real-time performance monitoring and interactive visualizations.
 
 ## 🎯 **Overview**
 
